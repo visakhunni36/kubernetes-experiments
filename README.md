@@ -2,7 +2,7 @@
 
 ## Want to learn how to build this?
 
-Check out the [post](https://testdriven.io/running-flask-on-kubernetes).
+
 
 ## Want to use this project?
 
